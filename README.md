@@ -7,4 +7,4 @@ demo: http://xhs.me/blog/
 Installation
 ------------
 
-    rake theme:install git="https://github.com/gdagley/theme-twitter-2.0"
+    rake theme:install git="https://github.com/xi4oh4o/theme-twitter-2.0-modify.git"
